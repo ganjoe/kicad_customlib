@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BD63620AEFV
+D 36V Stepping Motor Driver
+K
+F https://fscdn.rohm.com/en/products/databook/datasheet/ic/motor/stepper/bd63620aefv-e.pdf
+$ENDCMP
+#
+#End Doc Library
